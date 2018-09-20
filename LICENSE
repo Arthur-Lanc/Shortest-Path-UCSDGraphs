@@ -1,4 +1,57 @@
-                                 Apache License
+The software developed specifically as part of the Coursera/UCSD Course is distributed 
+under the MIT License.  
+
+The MIT License (MIT)
+
+Copyright (c) 2015 UC San Diego Intermediate Software Development MOOC team
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+In addition, this software uses and is distributed with a number of third-party 
+software and data packages.  The license information for each
+of these is below.
+
+
+THIRD PARTY SOFTWARE AND DATA
+
+OpenStreetMap:
+--------------
+This data is available under the Open Database License.
+www.openstreetmap.org
+www.opendatacommons.org
+http://opendatacommons.org/licenses/odbl/1.0/
+© OpenStreetMap contributors
+
+OpenFlights Route Database:
+---------------------------
+This data is available under the Open Database License. Any rights in individual contents of the database are 
+licensed under the Database Contents License.
+http://openflights.org/data.html
+http://opendatacommons.org/licenses/odbl/1.0/
+http://opendatacommons.org/licenses/dbcl/1.0/
+
+GMapsFX:
+--------
+GMapsFX is distributed with the Apache License.
+
+Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
@@ -178,7 +231,7 @@
    APPENDIX: How to apply the Apache License to your work.
 
       To apply the Apache License to your work, attach the following
-      boilerplate notice, with the fields enclosed by brackets "[]"
+      boilerplate notice, with the fields enclosed by brackets "{}"
       replaced with your own identifying information. (Don't include
       the brackets!)  The text should be enclosed in the appropriate
       comment syntax for the file format. We also recommend that a
@@ -186,7 +239,7 @@
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright {yyyy} {name of copyright owner}
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
